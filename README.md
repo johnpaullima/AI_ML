@@ -5,8 +5,9 @@
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder at the following URL:
+https://mybinder.org/v2/gh/johnpaullima/AI_ML/master
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+"""""http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
