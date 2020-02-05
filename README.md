@@ -1,4 +1,4 @@
-# Conda environment with environment.yml
+# Linear Regression
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
 
